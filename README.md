@@ -5,7 +5,7 @@
 
 For Laravel 8 run:
 
-    composer require "codebot/entrust": "^8.0"
+    composer require "aittalghalit/entrust": "^8.0"
 
 Click [here](https://github.com/Zizaco/entrust/blob/master/README.md) for the full documentation.
 
